@@ -1,0 +1,5 @@
+venv/
+output.mp4
+yolov8n.pt
+__pychache__/
+*.pyc
