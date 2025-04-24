@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.mp4
+*.avi
+*.mkv
+*.jpg
+*.png
+*.h5
+*.pt
+*.json
+*.log
+*.zip
+.env
+.git
